@@ -55,3 +55,15 @@ model = Sequential([
     Dropout(0.3),
     Dense(5, activation='softmax')
 ])
+### 🛠️ Tech Stack
+
+### 🔧 Hardware:
+- **ESP8266** – WiFi-enabled microcontroller
+- **DHT22** – Temperature & humidity sensor
+- **Soil Moisture Sensor** – For real-time soil conditions
+
+### 💻 Software:
+- **Backend:** Python, Flask
+- **Computer Vision:** OpenCV, TensorFlow (CNN Model)
+- **AI Remedy Engine:** Google Gemini
+- **Frontend Dashboard:** Streamlit
