@@ -42,6 +42,18 @@ Farmai combines computer vision, machine learning, and generative AI to:
 - Normalization: [0, 1] range
 - Augmentations: Rotation, Flip, Zoom, Brightness
 
+## 🛠️ Tech Stack
+
+### 🔧 Hardware:
+- **ESP8266** – WiFi-enabled microcontroller
+- **DHT22** – Temperature & humidity sensor
+- **Soil Moisture Sensor** – For real-time soil conditions
+
+### 💻 Software:
+- **Backend:** Python, Flask
+- **Computer Vision:** OpenCV, TensorFlow 
+- **AI Remedy Engine:** Google Gemini
+- **Frontend Dashboard:** Streamlit
 ### 🧪 Model Architecture
 
 ```python
